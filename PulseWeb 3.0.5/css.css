@@ -1,0 +1,51 @@
+.inputlables{
+  color: white;
+  margin: 10px;
+  margin-left: 0px;
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  background-color: RGBA(127,127,127,0.5);
+  padding: 10px;
+  left: 0;
+}
+
+.cmenu{
+  position: absolute;
+  background-color: RGBA(127,127,127,0.5);
+  width: 30px;
+  height: 30px;
+  margin-top: 10px;
+  font-family: sans-serif;
+  font-size: 30px;
+  color: RGBA(255,255,255,0.5);
+}
+
+#closemenu, #openmenu{
+  margin: 0;
+  margin-left: 5px;
+  margin-top: -6px;
+}
+
+.value{
+  width: 40px;
+}
+
+.value, .color, .select, .slider, .button, .upload {
+  float: right;
+}
+
+.controlls{
+  margin-left: 15%;
+}
+
+.upload{
+  max-width: 250px;
+}
+
+.credit{
+  font-size: 11px;
+  color: RGBA(255,255,255,0.5);
+  margin: 0px;
+}
